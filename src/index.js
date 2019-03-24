@@ -1,8 +1,8 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import React from 'react'; //Libreria para react
+import ReactDOM from 'react-dom';  //Libreria para app web
+import './index.css';  //Js permite importar css
+import App from './App'; //Archivo que arranca la aplicacion
+import * as serviceWorker from './serviceWorker'; //Permite funcionar la app aun sin conexion
 
 ReactDOM.render(<App />, document.getElementById('root'));
 

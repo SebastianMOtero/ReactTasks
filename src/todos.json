@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "Task 1",
+      "responsible": "Name 1",
+      "description": "Lorem impsum",
+      "priority": "Level"
+    },
+    {
+      "title": "Task 2",
+      "responsible": "Name 2",
+      "description": "Lorem impsum",
+      "priority": "Level"
+    },
+    {
+      "title": "Task 3",
+      "responsible": "Name 3",
+      "description": "Lorem impsum",
+      "priority": "Level"
+    }
+  ]
+}
